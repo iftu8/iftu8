@@ -32,3 +32,19 @@
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+
+<div align="center">
+  <br><br>
+  <!-- GitHub Trophies (Secret Advanced Feature) -->
+  <h2>🏆 My GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iftu8&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Iftu's Trophies" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Dynamic Developer Jokes -->
+  <h2>😂 Daily Dev Joke</h2>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
