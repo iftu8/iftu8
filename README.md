@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&fontColor=ff0055&height=250&section=header&text=Iftekhar%20Ahmed%20Chowdhury&fontSize=45&desc=Software%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&fontColor=ff0055&height=220&section=header&text=Iftekhar%20Ahmed%20Chowdhury&fontSize=45&desc=Software%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Bug%20Creator%20(Sometimes)%20🐛&descSize=18&descAlignY=75" width="100%" />
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Hacker Cat" />
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Iftu+-+A+Passionate+Developer;Crafting+High-Performance+Code;Turning+Ideas+Into+Reality!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Iftu+-+A+Passionate+Developer;Crafting+High-Performance+Code;My+Code+Works,+I+Don't+Know+Why+😂;Fixing+1+Bug...+Creating+99+New+Ones!;Turning+Coffee+Into+Code...;Ctrl+%2B+C+and+Ctrl+%2B+V+Master+🔥" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=iftu8&label=PROFILE%20VIEWS&color=ff0055&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=iftu8&label=PROFILE%20STALKERS&color=ff0055&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -20,13 +24,13 @@
 
 <div align="center">
   <h2> 🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 </h2>
-  <p><b><i>"Code is like humor. When you have to explain it, it’s bad."</i></b></p>
+  <p><b><i>"I write code that sometimes works, and when it doesn't, I blame the compiler."</i></b></p>
 </div>
 
 * 💻 **Mission:** Building robust, scalable, and next-generation software solutions.
 * 🧠 **Focus:** Clean architectures, advanced mechanics, and continuous learning.
 * 🤝 **Collaboration:** Always open to innovative projects and tech discussions.
-* ⚡ **Superpower:** Debugging production issues before the coffee gets cold.
+* ⚡ **Superpower:** Staring at the screen until the bug miraculously fixes itself.
 
 ---
 
@@ -35,7 +39,7 @@
 <p align="center">
   <b>Programming Languages</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ruby&theme=dark" alt="Languages" />
   </a>
 </p>
 
@@ -94,7 +98,7 @@
   <a href="https://youtube.com/@theblank4">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://discord.com/users/TOMAR_DISCORD_ID_BA_LINK">
+  <a href="https://discord.com/users/TOMAR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/TOMAR_X_HANDLE">
