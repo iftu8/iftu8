@@ -1,14 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ff0055&height=220&section=header&text=Welcome%20to%20Iftu's%20Matrix&fontSize=50&desc=Code.%20Conquer.%20Dominate.&descSize=20&descAlignY=72" width="100%" />
+<a href="https://github.com/iftu8">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ff0055&height=220&section=header&text=IFTU'S%20CYBER%20NEXUS&fontSize=50&desc=System.Status:%20[ONLINE]%20%7C%20Level:%20GOD_MODE&descSize=18&descAlignY=75" width="100%" alt="Banner" />
+</a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Iftu+-+A+Tech+Enthusiast;Turning+Coffee+Into+Code;Building+God-Level+Projects!" alt="Typing SVG" />
+<a href="https://github.com/iftu8">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=%3E_Initializing+God_Mode.exe...;%3E_Welcome+to+my+Digital+Fortress;%3E_Iftu+-+Full+Stack+Cyber+Architect;%3E_Eat.+Sleep.+Code.+Dominate." alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=iftu8&label=PROFILE%20VIEWS&color=ff0055&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=iftu8&label=TOTAL%20NEXUS%20VISITS&color=ff0055&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<details>
+  <summary style="cursor: pointer;">
+    <kbd style="background: #ff0055; color: white; padding: 10px 20px; border-radius: 8px; font-size: 16px; font-weight: bold; box-shadow: 0 4px 8px rgba(255,0,85,0.4);">
+      🔥 [ 𝐓𝐎𝐔𝐂𝐇 / 𝐂𝐋𝐈𝐂𝐊 𝐇Е𝐑Е ] 𝐓𝐨 𝐎𝐩𝐞𝐧 𝐌𝐲 𝐂𝐲𝐛𝐞𝐫 𝐕𝐚𝐮𝐥𝐭 🔥
+    </kbd>
+  </summary>
+  <br>
+  <p align="center">
+    <code><b>[ SECURITY CLEARANCE: APPROVED ]</b></code><br><br>
+    <b>👑 Alias:</b> The Architect <br>
+    <b>⚡ Superpower:</b> Turning raw caffeine into bug-free logic.<br>
+    <b>🎯 Mission:</b> Building scalable, high-performance digital ecosystems.<br>
+    <i>"If it works, don't touch it. If it's broken, rewrite it in God Mode."</i>
+  </p>
+</details>
 
 </div>
 
@@ -16,65 +36,59 @@
 
 ---
 
-### 🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 (The Man Behind the Code)
-* 💻 **Coding:** Building raw, scalable, and next-level solutions.
-* 🧠 **Exploring:** Advanced mechanics, clean code, and cool tech stacks.
-* 🤝 **Open for:** Collaborations, innovative projects, and tech discussions.
-* ⚡ **Fun Fact:** I can solve complex bugs before my coffee gets cold.
+<h3 align="center">⚡ 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐓𝐇𝐄 𝐀𝐑𝐂𝐇𝐈𝐓Е𝐂𝐓 ⚡</h3>
 
----
-
-### 🛠️ 𝐓𝐞𝐜𝐡 𝐀𝐫𝐬𝐞𝐧𝐚𝐥 (My Weapons)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,nodejs,git,github,linux,mysql,vscode&perline=7" alt="Iftu's Skills" />
+  <a href="mailto:iftuuu69@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-%20iftuuu69@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/iftekhar-ahmed-chowdhury-aa432b416" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%20Iftekhar%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@theblank4" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-%20TheBlank4-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 ---
 
-### 🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 (Let's Network)
+<h3 align="center">🛠️ 𝐓Е𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘 𝐀𝐑𝐒Е𝐍𝐀𝐋 🛠️</h3>
+
 <p align="center">
-  <a href="mailto:iftuuu69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/iftekhar-ahmed-chowdhury-aa432b416">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@theblank4">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
+  <b>💻 Core Programming</b><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" /><br><br>
+  <b>🌐 Web & Frameworks</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" /><br><br>
+  <b>🗄️ Tools, OS & Databases</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,linux,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 (The Numbers Don't Lie)
+<h3 align="center">📊 𝐁𝐀𝐓𝐓𝐋Е 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒 📊</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftu8&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Iftu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iftu8&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftu8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftu8&theme=radical&hide_border=true" alt="Iftu's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftu8&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬 (Achievements Unlocked)
+<h3 align="center">🏆 𝐀𝐂𝐇𝐈Е𝐕Е𝐌Е𝐍𝐓𝐒 𝐔𝐍𝐋𝐎𝐂𝐊Е𝐃 🏆</h3>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iftu8&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Iftu's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iftu8&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
 ---
 
-### 🎭 𝐃𝐚𝐢𝐥𝐲 𝐂𝐨𝐝𝐢𝐧𝐠 𝐉𝐨𝐤𝐞 (Stay Relaxed)
+<h3 align="center">🎭 𝐓Е𝐂𝐇 𝐇𝐔𝐌𝐎𝐑 🎭</h3>
+
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Joke Card" />
 </p>
